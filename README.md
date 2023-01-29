@@ -1,5 +1,5 @@
 # Fault-Detection-SECOM
-The semiconductor industry is a highly complex manufacturing field with more than 500 processing steps. Due to the complexities of the production process, harsh environment, and fluctuation in the demand of the electronics market, companies have to adapt and meet the demand of 
+The semiconductor industry is a highly complex manufacturing field with more than 500 processing steps. Due to the complexities of the production process, harsh environment, and fluctuation in the demand of the electronics market, companies have to adapt and meet the demand of 
 the market in the short term (Sun & Rose, 2015).
 Mainly production process of the semiconductor industry consists of the below steps:
 • Raw wafer production from pure silicon
